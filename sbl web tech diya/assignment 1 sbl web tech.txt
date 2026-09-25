@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Profile</title>
+</head>
+
+<body>
+
+    <h1>Student Profile</h1>
+
+    <h2>Diya Shah</h2>
+
+    <a href="sakec.ac.in">
+        <img src="profile.jpg" alt="Student Profile" width="150" height="150">
+    </a>
+
+    <h3>Personal Information</h3>
+
+    <p>
+        Branch: Computer Engineering<br>
+        Semester: 1st Semester<br>
+        Roll Number: 101<br>
+        College Name: Shah & Anchor Kutchhi Engineering College
+    </p>
+
+    <p>
+        I am a student pursuing Computer Engineering. 
+        I am interested in technology, programming and learning new skills.
+    </p>
+
+    <a href="https://www.shahandanchor.com/">
+        Visit College Website
+    </a>
+
+    <hr>
+
+    <h3>Hobbies</h3>
+
+    <ul>
+        <li>Reading</li>
+        <li>Playing Tennis</li>
+        <li>Dancing</li>
+        <li>Content Creation</li>
+    </ul>
+
+</body>
+</html>
+
+Q1. 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shah and Anchor Kutchhi Engineering College</title>
+</head>
+
+<body>
+
+    <h1>Shah and Anchor Kutchhi Engineering College</h1>
+
+    <h2>About the College</h2>
+
+    <p>
+        Shah and Anchor Kutchhi Engineering College was established in 1985
+        to provide quality technical education. It is managed by Mahavir
+        Education Trust and is affiliated to the University of Mumbai.
+    </p>
+
+    <p>
+        The college is an autonomous institute located in Chembur, Mumbai.
+        It offers undergraduate programmes in Computer Engineering,
+        Information Technology, Artificial Intelligence and Data Science,
+        Cyber Security and other engineering fields.
+    </p>
+
+    <h2>Departments</h2>
+
+    <p>
+        Computer Engineering<br>
+        Information Technology<br>
+        Artificial Intelligence and Data Science<br>
+        Cyber Security<br>
+        Electronics and Computer Science
+    </p>
+
+    <p>
+        College Name: Shah and Anchor Kutchhi Engineering College<br>
+        City: Mumbai<br>
+        Contact Number: 022-25580854
+    </p>
+
+</body>
+</html>
